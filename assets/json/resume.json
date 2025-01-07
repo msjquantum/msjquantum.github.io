@@ -30,20 +30,18 @@
       "startDate": "2023-01-15",
       "endDate": "ongoing",
       "summary": "",
-      "highlights": ["Multi-hybrid algorithms", "Quantum Annealing", "QC-HPC integration"]
+      "highlights": ["Multi-hybrid quantum algorithms", "Quantum Annealing", "QC-HPC integration"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "RWTH Aachen University",
+      "location": "Aachen, Germany",
+      "url": "https://www.rwth-aachen.de/",
+      "area": "Physics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019",
+      "endDate": "2022",
     }
   ],
   "awards": [
